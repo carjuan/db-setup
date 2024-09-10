@@ -3,8 +3,8 @@
 This repository explores different tools for setting up and managing a MongoDB database using Node.js. The goal is to compare Prisma, Mongoose, and the native MongoDB driver to demonstrate how each tool solves common problems and simplifies database operations. The project includes creating a database connection, setting up models, and performing CRUD operations.
 
 > [!NOTE]
-> By understanding what each tool solves, I believe it provides an more rounded knowledge of the
-> the work you are doing and better solve problems that your application might cause along the way.
+> By exploring what problem each tool solves, I believe it provides a more solid understanding of the
+> the work you are doing.
 
 ## Getting Started
 
