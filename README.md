@@ -33,9 +33,6 @@ cd db-setup
 > This project uses `TypeScript`
 
 ```bash
-npm install
-
-# PNPM
 pnpm install
 ```
 
@@ -47,7 +44,7 @@ pnpm install
 Start the server:
 
 ```bash
-npm start
+pnpm start
 ```
 
 The API will be running on `http://localhost:3000`.
