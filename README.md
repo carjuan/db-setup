@@ -52,7 +52,10 @@ The API will be running on `http://localhost:3000`.
 
 #### Prisma
 
-Prisma is an open-source ORM (Object-Relational Mapping) tool that simplifies database access and management. It provides a type-safe query builder and auto-generated models. The great thing about Prisma is that it allows you to use any database (it is database agnostic) and to define your database schema using the Prisma Schema Language.
+> [!NOTE]
+> This is a fantastic tool doing everything under the hood for you. Easy to setup and start crudding.
+
+> Prisma is an open-source ORM (Object-Relational Mapping) tool that simplifies database access and management. It provides a type-safe query builder and auto-generated models. The great thing about Prisma is that it allows you to use any database (it is database agnostic) and to define your database schema using the Prisma Schema Language.
 
 #### Mongoose
 
